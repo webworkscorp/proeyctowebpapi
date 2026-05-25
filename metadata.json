@@ -1,0 +1,6 @@
+{
+  "name": "Qeeb NFT Marketplace",
+  "description": "Collect rare digital artworks on the premier crypto marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
